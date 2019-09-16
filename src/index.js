@@ -1,0 +1,1 @@
+alert("Hello webpack 4")

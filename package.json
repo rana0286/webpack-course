@@ -1,0 +1,24 @@
+{
+  "name": "webpack-course",
+  "version": "1.0.0",
+  "description": "My Advance Webpack 4 course",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rana0286/webpack-course.git"
+  },
+  "author": "Vijay Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rana0286/webpack-course/issues"
+  },
+  "homepage": "https://github.com/rana0286/webpack-course#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
